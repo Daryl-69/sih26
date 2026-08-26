@@ -1,9 +1,16 @@
+# Large datasets
 dataset/
+
+# Third-party applications
 Obsidian/
-*.exe
+beackoning/kiro-ide-1.0.337-stable-win32-x64.exe
+
+# Large data files
 *.csv
 *.binetflow
 *.parquet
-*.pt
-*.onnx
 *.zip
+
+# Include model files - these are important
+# *.pt
+# *.onnx
