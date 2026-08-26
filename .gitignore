@@ -1,0 +1,10 @@
+dataset/
+Obsidian/
+*.exe
+*.csv
+*.binetflow
+*.parquet
+*.pt
+*.onnx
+
+*.zip
