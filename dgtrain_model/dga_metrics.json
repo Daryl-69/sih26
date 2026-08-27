@@ -1,0 +1,29 @@
+{
+  "model_name": "NetSentinel DGA Detector",
+  "model_type": "CNN-BiLSTM (Character-level)",
+  "version": "1.0.0",
+  "architecture": {
+    "embedding_dim": 64,
+    "cnn_filters": 128,
+    "cnn_kernels": [
+      3,
+      4,
+      5
+    ],
+    "lstm_hidden": 64,
+    "lstm_layers": 2,
+    "bidirectional": true
+  },
+  "classes": [
+    "Benign",
+    "DGA",
+    "DNS Tunnel"
+  ],
+  "macro_f1": 0.9976091250298996,
+  "best_val_f1": 0.9976091250298996,
+  "training_time_minutes": 0.030622548150002635,
+  "epochs": 20,
+  "inference_ms": 1.837352889000158,
+  "max_domain_length": 128,
+  "vocab_size": 40
+}

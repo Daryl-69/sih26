@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <h1 align="center">🛡️ NetSentinel</h1>
   <p align="center">
@@ -581,3 +582,9 @@ This project is licensed under the Apache License 2.0 — see the [LICENSE](LICE
 <p align="center">
   <strong>NetSentinel</strong> — Because critical infrastructure deserves more than signature-based detection.
 </p>
+=======
+kaggle notebook links:     https://www.kaggle.com/code/daryl69/detector-3      //c2 beaconing
+                           https://www.kaggle.com/code/daryl69/ddos-sih1       //DDos
+                           https://www.kaggle.com/code/daryl69/dgatrain         //dga
+                           
+>>>>>>> fb9cd25697b1cfe3511b1bd930d0e2401cdeac7c
